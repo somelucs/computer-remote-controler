@@ -4,8 +4,6 @@ import pyautogui
 import time
 import threading
 from io import BytesIO
-import requests
-import sys
 import os
 
 app = Flask(__name__)
